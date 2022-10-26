@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_audio_query/flutter_audio_query.dart';
-//import 'package:flutter_music_player/widget.dart';
-//import 'main.dart';
+import 'package:music_app/widget.dart';
+// import 'package:flutter_music_player/widgets/single_line_drag_handle.dart';
+// import 'main.dart';
 
 class SongWidget extends StatelessWidget {
   final List<SongInfo> songList;
